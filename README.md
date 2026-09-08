@@ -1,4 +1,3 @@
 # Hi, I'm Mohammad 👋
 
-### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,nextjs,express,nodejs,mongodb,firebase,md,git,github,vscode,jest,postman,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,php,dart,flutter,laravel,nodejs,express,mysql,postgres,git,postman,vscode,github,prisma,supabase&perline=10)](https://skillicons.dev)
