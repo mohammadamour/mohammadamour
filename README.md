@@ -34,4 +34,4 @@ I enjoy turning ideas into practical products using modern frontend, backend, an
 
 Thanks for visiting my profile!
 
-[My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,php,laravel,nodejs,express,python,dart,flutter,mysql,postgres,prisma,supabase,redis,docker,vercel,git,github,postman,vscode&perline=8)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,php,laravel,nodejs,express,python,dart,flutter,mysql,postgres,prisma,supabase,redis,docker,vercel,git,github,postman,vscode&perline=8)](https://skillicons.dev)
